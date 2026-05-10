@@ -1,0 +1,41 @@
+.gallery-items{
+    text-decoration: none;
+    background-color:#ca3d24 ;
+     border-radius: 10px;
+     color: azure;
+}
+.gallery-item{
+     text-decoration: none;
+
+}
+body{
+    background-color : #B7260D;
+    text-decoration: none;
+    color:#D7BB57;
+
+}
+
+.my-conal{
+    text-decoration:none ;
+    color: #360700;
+    background: #811100;
+    border-radius: 10px;
+    font-family:bold;
+    font-size: 15px;
+}
+.gallery-itemm{
+    background:#440a02;
+    border-radius  :100px;
+    text-align: center;
+}
+a{
+     text-align: center;
+} 
+.rt{
+    text-decoration: none;
+    color:#D7BB57 ;
+}
+.secrete{
+    text-align: center;
+}
+ 
